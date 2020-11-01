@@ -1,0 +1,27 @@
+baseURL : "http://localhost:1313"
+languageCode : "ca-es"
+title : "Oh!May Pizzeria"
+theme : "basic-hugo"
+
+menu :
+  main :
+    #Sobre nostros
+    - name: Sobre el restaurant
+      url: /about
+      weight: -110
+    #Contacto del Sitio
+    - name: Contacte
+      url: /contacte
+      weight: -90
+    #Nuestras Pizzas
+    - name: Pizzes
+      url: /pizzes/
+      weight: -105
+    #Nuestras Hamburguesas
+    - name: Hamburgueses
+      url: /hamburgueses/
+      weight: -100
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

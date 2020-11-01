@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/pizzes/barbacoa/</loc>
+    <lastmod>2020-10-20T12:13:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/pizzes/</loc>
+    <lastmod>2020-10-20T12:13:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hamburgueses/</loc>
+    <lastmod>2020-10-16T09:07:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hamburgueses/pollo/</loc>
+    <lastmod>2020-10-16T09:07:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hamburgueses/ternera/</loc>
+    <lastmod>2020-10-16T09:07:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/pizzes/margarita/</loc>
+    <lastmod>2020-10-16T09:01:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/pizzes/jamonqueso/</loc>
+    <lastmod>2020-10-16T09:01:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/contacte/</loc>
+    <lastmod>2020-10-16T08:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2020-10-16T08:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2020-10-16T08:50:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+  
+</urlset>
