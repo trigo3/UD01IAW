@@ -1,0 +1,61 @@
+header{
+  border-style: solid;
+  padding: 5px;
+  margin-bottom: 2px;
+}
+#titol-lloc-logo{
+  border-style: solid; 
+  padding: 5px;
+}
+
+.main_container{
+  display: grid;
+  grid-template-columns: 70% 30%;
+  border-style: solid; 
+  padding: 5px;
+}
+article{
+  border-style: solid;
+  padding: 10px;
+  margin: 2px;
+}
+#header-article{
+  border-style: solid;
+  display: grid;
+  padding: 5px;
+}
+#p-article{
+  border-style: solid;
+}
+#titol-article{
+  border-style: solid;
+}
+
+#seccions{
+  border-style: solid;
+}
+
+ul{
+  border-style: solid;
+}
+
+aside{
+  border-style: solid;
+  padding: 10px;
+  margin: 2px;
+}
+.header-aside{
+  border-style: solid;
+  padding: 2px;
+}
+
+.footer_container{
+  border-style: solid;
+  padding: 5px;
+  margin-top: 2px;
+}
+footer{
+  border-style: solid;
+  padding: 5px;
+  margin-top: 2px;
+}
