@@ -3,7 +3,7 @@
 ***
 
 
-1. Instalacio del servidor web Apache.
+**1. Instalacio del servidor web Apache.**
 
 
 En primer lloc lo que fem es instalar el servidor web apache. Antes d'això tenim que utilitzar el següent comandament:
@@ -18,4 +18,4 @@ Una vegada actualitzada els paquets locals. Veiem si tenim alguna versio del paq
 apt-cache policy apache2
 ~~~
 
-![Veiem l'informació del comandament](~/Imatges/aptpolicy.png)
+![Veiem l'informació del comandament](/home/eljust/UD01IAW/Apache/Imatges/aptpolicy.png)
