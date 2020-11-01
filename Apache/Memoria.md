@@ -73,3 +73,15 @@ A mes de afegir-nos com a propietaris d'aquest directori:
 ~~~
 sudo chown -R eljust /var/www/html
 ~~~
+![Permisos dados](/Imatges/permisos.png)
+***
+
+**4. Contingut**
+
+Ara anem a pujar el contingut de la carpeta public que varem crear quant exportarem la nostra pagina web desde Hugo.
+
+Jo he copiat tot el contingut que tenia mitjançant el comandament *"scp"*, de la següent forma:
+
+~~~
+scp /home/noel/Hugo/Prova/public/* eljust@192.168.1.154:/var/www/html/
+~~~
